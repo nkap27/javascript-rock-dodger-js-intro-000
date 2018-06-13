@@ -67,7 +67,7 @@ function createRock(x) {
    * it to GAME and move it downwards.
    */
 
-   $('#game').append('rock');
+   $('GAME').append('rock');
 
 
   /**
